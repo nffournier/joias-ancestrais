@@ -65,7 +65,7 @@ Cuidei para que a página fosse usável por todo mundo:
 
 Fiz mobile-first: o CSS base serve telas pequenas e as media queries (`min-width`) ampliam o layout conforme o espaço.
 
-- **Celular:** uma coluna, menu hambúrguer (abre e fecha sem JavaScript, com `<details>`), galeria em 2 colunas
+- **Celular:** uma coluna, menu em uma linha, galeria em 2 colunas
 - **Tablet (640px e 768px):** cards e impacto em 2 colunas
 - **Desktop (1024px):** hero em 2 colunas, 3 cards, timeline horizontal, galeria em 4 colunas e impacto em 5
 
