@@ -96,5 +96,3 @@ Alguns prompts que usei:
 - "Crie uma landing page acessível e responsiva em HTML/CSS puro para uma marca de joias artesanais inspirada na ancestralidade afro-brasileira."
 - "Como montar uma timeline horizontal e vertical usando apenas HTML e CSS?"
 - "Revise a acessibilidade desta página: hierarquia de títulos, alt das imagens e foco visível."
-
-Parte do código foi gerada pela IA e revisada por mim. Consigo explicar cada decisão na apresentação, e nada aqui depende de truques ou bibliotecas escondidas.
