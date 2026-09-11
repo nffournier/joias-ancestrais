@@ -99,7 +99,12 @@ Fontes carregadas via Google Fonts com `preconnect` e `display=swap`, e com *fal
 
 ## Publicação (GitHub Pages)
 
-Para publicar:
+Publicado via **GitHub Pages** (branch `main`, pasta raiz):
+
+- **Site:** https://nffournier.github.io/joias-ancestrais/
+- **Repositório:** https://github.com/nffournier/joias-ancestrais
+
+Passo a passo para publicar um projeto novo:
 
 1. Crie um repositório no GitHub com o nome desejado;
 2. Envie este projeto para o repositório:
@@ -108,14 +113,6 @@ Para publicar:
    git push -u origin main
    ```
 3. No GitHub: **Settings → Pages → Source: Deploy from a branch → Branch: main / root**.
-
-```text
-Site:
-[LINK]
-
-Repositório:
-[LINK]
-```
 
 ## Uso da IA
 
